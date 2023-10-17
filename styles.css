@@ -1,0 +1,27 @@
+.header {
+    background: lightpink;
+    height: 56px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 0px;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+input {
+    height: 38px;
+    width: 515px;
+    border-radius: 16px 0 0 16px;
+}
+
+button {
+    background: lightgray;
+    border-radius: 0 16px 16px 0;
+    height: 40px;
+    width: 64px;
+    margin: 0;
+    cursor: pointer;
+}
