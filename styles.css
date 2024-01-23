@@ -47,7 +47,7 @@ img {
     width: 120px;
 }
 
-.search-bar {
+.search-bar-container {
     display: flex;
     justify-content: center;
     align-items: center;
